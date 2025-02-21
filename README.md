@@ -1,5 +1,25 @@
 # React + TypeScript + Vite
 
+# React Dashboard 🚀
+
+A **scalable dashboard** built with React, Vite, Tailwind CSS, and Redux.
+
+## 📦 Features
+✅ Vite for fast development  
+✅ Redux Toolkit for state management  
+✅ Tailwind CSS for styling  
+✅ React Router for navigation  
+✅ Modular component structure  
+
+## 🛠️ Installation
+
+```sh
+git clone https://github.com/YOUR_USERNAME/react-dashboard.git
+cd react-dashboard
+npm install
+npm run dev
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
